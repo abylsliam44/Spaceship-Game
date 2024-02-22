@@ -10,7 +10,4 @@ To run the Space Shooter Game, you will need Python and Pygame installed on your
 - Python 3.x
 - Pygame
 
-### Steps:
-1. Clone the repository or download the game source code:
-```bash
-git clone https://github.com/yourusername/spaceshootergame.git
+
